@@ -1,0 +1,12 @@
+Oilcan         1350, 12438
+Tomato          990,  11610
+Boost           990,  10242
+Oilcan         864,  7614
+Oilcan         1962, 6498
+Boost           1818, 6534
+Tomato          1206, 5130
+Boost           990,  4302
+Tomato          1206, 3690
+Oilcan         1314, 3690
+Boost           1926, 3510
+Tomato          1422, 2322
